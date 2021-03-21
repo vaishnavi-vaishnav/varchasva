@@ -1,6 +1,6 @@
 # Booleans.github.io
 
-# Track: Social Good
+# Track: Open Innovation
 
 Welcome to Varchasva, your number one source for all Government Schemes and services. We're dedicated to giving you the very best of organized experience, with a focus on spreading awareness of government schemes in public interest with one tap.
 
